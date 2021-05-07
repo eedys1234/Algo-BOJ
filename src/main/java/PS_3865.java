@@ -12,6 +12,7 @@ public class PS_3865 {
 
         BufferedReader inbr = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
+
         while(true) {
             int n = Integer.valueOf(inbr.readLine());
             if(n == 0) {
@@ -43,8 +44,7 @@ public class PS_3865 {
             }
 
             dfs(store, visited, temp[0].split(":")[0]);
-            sb.append(count).append("\r\n");
-
+            sb.append(count).append("\n");
         }
 
         System.out.println(sb.toString());
