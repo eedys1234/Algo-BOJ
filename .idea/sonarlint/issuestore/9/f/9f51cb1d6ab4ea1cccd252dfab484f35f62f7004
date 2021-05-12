@@ -1,20 +1,20 @@
 
 M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¥ŞÎã”/
-M
 java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¥ŞÎã”/
-[
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(îÿ¯ùÿÿÿÿ8·®ã”/
-c
-java:S1126,"AReplace this if-then-else statement by a single return statement.(äï‹£ıÿÿÿÿ8€ËÒã”/
-m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß©Ïç8€ËÒã”/
-Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Ïûºøÿÿÿÿ8‡ÆÜã”/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœ¨Áÿÿÿÿÿ8¸Šã”/
-r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÌ•‰şÿÿÿÿ8€ËÒã”/
-0
-java:S1220""Move this file to a named package.
 t
 java:S3776
 "RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8Í±µã”/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœ¨Áÿÿÿÿÿ8¸Šã”/
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÌ•‰şÿÿÿÿ8€ËÒã”/
 r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒâå‚şÿÿÿÿ8¸Šã”/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Ïûºøÿÿÿÿ8‡ÆÜã”/
+0
+java:S1220""Move this file to a named package.
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(îÿ¯ùÿÿÿÿ8·®ã”/
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß©Ïç8€ËÒã”/
+c
+java:S1126,"AReplace this if-then-else statement by a single return statement.(äï‹£ıÿÿÿÿ8€ËÒã”/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¥ŞÎã”/
 b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä£‘€

@@ -1,0 +1,12 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "s".(ìÕÀŒıÿÿÿÿ8©¼²Û•/
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ìÕÀŒıÿÿÿÿ8ÎÚÛ•/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÎÆğüÿÿÿÿ
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8£â…Ü•/
+H
+java:S1481"&Remove this unused "s" local variable.(ìÕÀŒıÿÿÿÿ8©¼²Û•/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§òÒğ
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ğÏš×8ÎÚÛ•/
