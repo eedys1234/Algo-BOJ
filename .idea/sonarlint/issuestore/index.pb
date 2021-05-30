@@ -19,3 +19,7 @@ X
 (src/main/java/SlidingWindow/PS_2428.java,8\7\874206ba76c4a1a6c0ddd6080e9badda13e00127
 Y
 )src/main/java/SlidingWindow/PS_12891.java,b\0\b0e8ef79f47d36f479e57aa38a65659085762b9f
+X
+(src/main/java/SlidingWindow/PS_1522.java,7\4\7467999a75ebdd9fe634eac03bae4ff9640f1e7e
+Q
+!src/main/java/greedy/PS_2806.java,c\3\c35b9bbc4623971ed261985dbf20d6faabd9eb91
