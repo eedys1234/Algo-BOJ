@@ -1,6 +1,4 @@
 
-[
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(îÿ¯ùÿÿÿÿ8÷è‚¹”/
 Z	java:S1064"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8¼ëß¹”/
 L
 java:S5411?"*Use the primitive boolean expression here.(’è…¿ÿÿÿÿÿ8»º”/
@@ -10,3 +8,5 @@ H
 java:S1444"+Make this "public static count" field final(˜“ÿ±8»÷‚º”/
 g	java:S101
 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ãå ”ûÿÿÿÿ
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(îÿ¯ùÿÿÿÿ8÷è‚¹”/
