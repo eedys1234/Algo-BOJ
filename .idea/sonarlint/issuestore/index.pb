@@ -23,3 +23,5 @@ X
 (src/main/java/SlidingWindow/PS_1522.java,7\4\7467999a75ebdd9fe634eac03bae4ff9640f1e7e
 Q
 !src/main/java/greedy/PS_2806.java,c\3\c35b9bbc4623971ed261985dbf20d6faabd9eb91
+R
+"src/main/java/greedy/PS_15553.java,3\e\3e8f166b379386c5f5e520b85b4c0197ae4cd28c

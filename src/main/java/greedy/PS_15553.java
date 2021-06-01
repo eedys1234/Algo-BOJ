@@ -2,6 +2,8 @@ package greedy;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class PS_15553 {
 
@@ -20,7 +22,19 @@ public class PS_15553 {
             friends[i] = Integer.parseInt(inbr.readLine());
         }
 
+        int result = friends[friends.length-1] + 1 - friends[0];
 
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
 
+        for(int i=1;i< friends.length;i++)
+        {
+            pq.offer(friends[i] - (friends[i-1] + 1));
+        }
+
+        while(k-- > 1) {
+            result -= pq.poll();
+        }
+
+        System.out.println(result);
     }
 }
