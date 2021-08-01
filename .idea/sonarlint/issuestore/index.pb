@@ -25,3 +25,12 @@ Q
 !src/main/java/greedy/PS_2806.java,c\3\c35b9bbc4623971ed261985dbf20d6faabd9eb91
 R
 "src/main/java/greedy/PS_15553.java,3\e\3e8f166b379386c5f5e520b85b4c0197ae4cd28c
+Q
+!src/main/java/greedy/PS_2405.java,0\f\0f9450279e4212a757d5103be89ae2bfd70aa801
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+U
+%src/test/java/greedy/PS_3135Test.java,9\f\9f85ae5feb9b93250446e371b1759be3a38770f3
+Q
+!src/main/java/greedy/PS_3135.java,6\d\6dfb19eb462e2b27ddfcfc4b468f4fa11a6d5907
